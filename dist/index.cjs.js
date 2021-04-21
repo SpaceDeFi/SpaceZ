@@ -2224,7 +2224,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/Z_defi",
+        href: "https://twitter.com/Spacedefi1",
     },
   //  {
   //      label: "Reddit",

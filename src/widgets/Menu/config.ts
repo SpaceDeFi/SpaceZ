@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Z_defi",
+    href: "https://twitter.com/spacedefi1",
   },
 //
 //  label: "Reddit",
