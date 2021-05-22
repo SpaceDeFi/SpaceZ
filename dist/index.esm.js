@@ -1987,7 +1987,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     __proto__: null,
     FarmIcon: Icon$I,
     GroupsIcon: Icon$J,
-    Planet: Icon$V
+    Planet: Icon$V,
     HamburgerIcon : Icon$K,
     HamburgerCloseIcon: Icon$L,
     HomeIcon: Icon$M,
